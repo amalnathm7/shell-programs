@@ -1,3 +1,3 @@
 # shell_programs
 
-Various programs written in Bash shell.
+Various programs written using Bash shell.
